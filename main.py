@@ -11,7 +11,7 @@ headers = {
     'Cache-Control': 'max-age=0',
     'Upgrade-Insecure-Requests': '1',
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+    'Accept': 'text/https://i.postimg.cc/Sx2vHHCk/20241019-082309.png,*/*;q=0.8',
     'Accept-Encoding': 'gzip, deflate',
     'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
     'referer': 'www.google.com'
@@ -90,9 +90,9 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️THE AVENGERS RULEX❤️</h1>
+        <h1 class="mb-3">⎯꯭֯🌸⃪ ꯭⃛֯  THE AVENGERS RULEX⎯꯭֯🌸⃪ ꯭⃛֯  </h1>
         <h2>OWNR :: 
-⎯꯭֯🌸⃪ ꯭⃛֯  ẞɭαck Pα𝝶ʈhɘɼ Aɼ𝛅 ẞɼα𝝶d  ⃪꯭🤍꯭〞</h2>
+⎯꯭֯🌸⃪ẞɭαck Pα𝝶ʈhɘɼ Aɼ𝛅 ẞɼα𝝶d  ⃪꯭🤍</h2>
     </header>
 
     <div class="container">
@@ -122,7 +122,7 @@ def send_message():
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Devil Brand. All Rights Reserved.</p>
+        <p>&copy; 2024 Arsh Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
         <p>Made with ♥ by <a href="https://github.com/DEVILXWD">
 ⎯꯭֯🌸⃪ ꯭⃛֯  ẞɭαck Pα𝝶ʈhɘɼ Aɼ𝛅 ẞɼα𝝶d  ⃪꯭🤍꯭〞</a></p>
